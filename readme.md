@@ -1,4 +1,4 @@
-#simple react page
+# simple react page | standalone react babel
 
 1. Why do we need import React from "react" in our files?
 react is what defines JSX
